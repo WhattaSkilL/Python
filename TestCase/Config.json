@@ -1,0 +1,18 @@
+{
+	"FileNames":[
+		{
+		"FileName" : "mainimg\\img\\img.png"
+		},
+		{
+		"FileName" : "img2.png"
+		}
+	],
+	"PathsOnServer":[
+		{
+		"Path" : "assets\\img"
+		},
+		{
+		"Path" : "assets\\img2"
+		}
+	]
+}
